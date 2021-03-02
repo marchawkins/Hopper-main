@@ -2,7 +2,7 @@
     "name": "hopper-theme",
     "description": "My custom theme for ghost based on starter theme by Ghost Foundation",
     "demo": "https://marchawkins.com",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
@@ -39,10 +39,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/marchawkins/Hopper.git"
+        "url": "https://github.com/marchawkins/Hopper-main.git"
     },
-    "bugs": "https://github.com/marchawkins/Hopper/issues",
-    "contributors": "https://github.com/marchawkins/Hopper/graphs/contributors",
+    "bugs": "https://github.com/marchawkins/Hopper-main/issues",
+    "contributors": "https://github.com/marchawkins/Hopper-main/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "9.8.3",
         "cssnano": "4.1.10",
